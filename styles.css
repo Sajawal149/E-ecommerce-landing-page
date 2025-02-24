@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.contanier{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.loginBox{
+    height: 475px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: none;
+    border: 0.4px solid rgb(59, 58, 58);
+    transform: translateY(-70px); 
+}
+.insta{
+    /* justify-content: center; */
+    /* align-items: center; */
+    color: white;
+    transform: translateY(-60px); 
+    font-family: 'Instagram Sans UI' ;
+    font-style: italic;
+    display: flex;
+    display: table-row; 
+    /* font-size: 48px; */
+}
+.gram{
+    justify-content: center;
+    display: flex;
+}
+.inp{
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+    height: 200px;
+    margin-top:30px;
+}
+input{
+    width:100%;
+    height:40px;
+    background-color: inherit;
+    border: 0.4px solid rgb(59, 58, 58);
+    border-radius: 3px;
+    padding: 10px;
+    color: white;
+}
+.btn{
+    width: 100%;
+    height: 33px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(21, 137, 214);
+    border-style: none;
+    margin-top: 15px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.pass{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pas{
+    text-decoration: none;
+    color: white;
+}
