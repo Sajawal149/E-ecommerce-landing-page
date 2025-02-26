@@ -24,15 +24,12 @@
     transform: translateY(-70px); 
 }
 .insta{
-    /* justify-content: center; */
-    /* align-items: center; */
     color: white;
     transform: translateY(-60px); 
     font-family: 'Instagram Sans UI' ;
     font-style: italic;
     display: flex;
     display: table-row; 
-    /* font-size: 48px; */
 }
 .gram{
     justify-content: center;
